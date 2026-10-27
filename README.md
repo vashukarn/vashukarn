@@ -11,7 +11,7 @@ Composer-distributed core package, event-driven flows, and one Flutter codebase 
 stores — bloc or Riverpod, Firebase, payments, hardware.
 
 - Portfolio: **[vijaykarn.com.np](https://vijaykarn.com.np)**
-- Reach me: **karnvashu@gmail.com** · [LinkedIn](https://www.linkedin.com/in/karnvashu/)
+- Reach me: **itsvashukarn@gmail.com** · [LinkedIn](https://www.linkedin.com/in/karnvashu/)
 - Open to remote roles worldwide.
 
 ---
